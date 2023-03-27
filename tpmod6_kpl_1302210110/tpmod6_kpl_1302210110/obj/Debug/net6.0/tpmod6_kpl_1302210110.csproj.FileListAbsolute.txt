@@ -1,0 +1,15 @@
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\bin\Debug\net6.0\tpmod6_kpl_1302210110.exe
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\bin\Debug\net6.0\tpmod6_kpl_1302210110.deps.json
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\bin\Debug\net6.0\tpmod6_kpl_1302210110.runtimeconfig.json
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\bin\Debug\net6.0\tpmod6_kpl_1302210110.dll
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\bin\Debug\net6.0\tpmod6_kpl_1302210110.pdb
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\obj\Debug\net6.0\tpmod6_kpl_1302210110.csproj.AssemblyReference.cache
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\obj\Debug\net6.0\tpmod6_kpl_1302210110.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\obj\Debug\net6.0\tpmod6_kpl_1302210110.AssemblyInfoInputs.cache
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\obj\Debug\net6.0\tpmod6_kpl_1302210110.AssemblyInfo.cs
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\obj\Debug\net6.0\tpmod6_kpl_1302210110.csproj.CoreCompileInputs.cache
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\obj\Debug\net6.0\tpmod6_kpl_1302210110.dll
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\obj\Debug\net6.0\refint\tpmod6_kpl_1302210110.dll
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\obj\Debug\net6.0\tpmod6_kpl_1302210110.pdb
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\obj\Debug\net6.0\tpmod6_kpl_1302210110.genruntimeconfig.cache
+C:\Users\Reyhan\source\repos\tpmod6\tpmod6_kpl_1302210110\tpmod6_kpl_1302210110\obj\Debug\net6.0\ref\tpmod6_kpl_1302210110.dll
